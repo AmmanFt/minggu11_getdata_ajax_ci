@@ -1,0 +1,1 @@
+# minggu11_getdata_ajax_ci
